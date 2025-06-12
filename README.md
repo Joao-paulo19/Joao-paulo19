@@ -17,20 +17,10 @@ Aqui você encontra alguns dos meus projetos e códigos que compartilho, frutos 
 
 ## ▬ Tecnologias e Skills
 
-## Linguagens  
-**Principais:** Python, JavaScript, Java  
-**Secundárias:** PHP, C  
-
-## Frameworks & Bibliotecas  
-**Principais:** React, React Native, Flask, Spring Boot  
-**Secundárias:** Laravel, Bootstrap  
-
-## Ferramentas & Plataformas  
-**Principais:** Git, Firebase  
-**Secundárias:** Mock.io
-
-## Banco de Dados & Modelagem  
-**Principais:** PostgreSQL, brModelo, Astah
+**Linguagens:** **Python**, **JavaScript**, Java, PHP, C  
+**Frameworks & Bibliotecas:** React, React Native, **Flask**, **SpringBoot**, Laravel, Bootstrap  
+**Ferramentas:** **Git**, Firebase
+**Banco de Dados & Modelagem:** **PostgreSQL**, brModelo, Astah
 
 ---
 
