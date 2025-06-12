@@ -1,4 +1,4 @@
-# Olá, eu sou João Paulo Maria de Alvarenga 👋
+# João Paulo Maria de Alvarenga
 
 Sou desenvolvedor Full Stack focado em Python, estudante de Tecnologia em Sistemas para Internet pela Fatec Jales e atualmente estagiário de T.I na Prefeitura de Fernandópolis.
 
@@ -6,24 +6,29 @@ Aqui você encontra alguns dos meus projetos e códigos que compartilho, frutos 
 
 ---
 
-## 🚀 Sobre mim
+## ▬ Sobre mim
 
 - 20 anos, desenvolvendo desde 2021  
 - Estagiário de T.I na Prefeitura de Fernandópolis  
 - Entusiasta por desenvolvimento web, automações e soluções práticas  
-- Experiência com banco de dados, front-end e back-end
+- Experiência com banco de dados, front-end e back-end  
 
-## 💻 Tecnologias e Skills
+---
+
+## ▬ Tecnologias e Skills
 
 **Linguagens:** Python, JavaScript, Java, PHP, C  
 **Frameworks & Bibliotecas:** React, React Native, Flask, Spring Boot, Laravel, Bootstrap  
-**Ferramentas:** Git, Firebase, Tkinter, PyInstaller, Pytest
+**Ferramentas:** Git, Firebase, Tkinter, PyInstaller, Pytest  
+**Banco de Dados & Modelagem:** PostgreSQL, pgSQL, MySQL, Power BI, brModelo, Astah
 
-## 🔗 Links importantes
+---
 
-- 📂 [Meus repositórios no GitHub](https://github.com/Joao-paulo19?tab=repositories)  
-- 🌐 [Meu portfólio online](https://joao-paulo19.github.io/portfolio/)  
-- 📫 [LinkedIn](https://www.linkedin.com/in/joao-paul0/)  
+## ▬ Links importantes
+
+- [Meus repositórios no GitHub](https://github.com/Joao-paulo19?tab=repositories)  
+- [Meu portfólio online](https://joao-paulo19.github.io/portfolio/)  
+- [LinkedIn](https://www.linkedin.com/in/joao-paul0/)  
 
 ---
 
