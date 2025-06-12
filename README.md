@@ -10,7 +10,7 @@ Aqui você encontra alguns dos meus projetos e códigos que compartilho, frutos 
 
 - 20 anos, desenvolvendo desde 2021  
 - Estagiário de T.I na Prefeitura de Fernandópolis  
-- Apaixonado por desenvolvimento web, automações e soluções práticas  
+- Entusiasta por desenvolvimento web, automações e soluções práticas  
 - Experiência com banco de dados, front-end e back-end
 
 ## 💻 Tecnologias e Skills
