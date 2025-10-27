@@ -1,36 +1,50 @@
 # João Paulo Maria de Alvarenga
 
-Sou desenvolvedor Full Stack com foco atual em desenvolvimento backend Java, estudante de Tecnologia em Sistemas para Internet pela Fatec Jales e atualmente estagiário de desenvolvimento na empresa GestãoTec, sob a supervisão de [Tiago Rib](https://github.com/tiagorib).
+Sou desenvolvedor Backend com foco Java/Spring, e estudante de Tecnologia em Sistemas para Internet pela Fatec Jales.
 
-Aqui você encontra alguns dos meus projetos e códigos que compartilho, frutos da minha jornada acadêmica, estágios, freelas e projetos pessoais.
+No momento, estou **em busca de novas oportunidades** no mercado e me dedicando a **projetos pessoais** (especialmente com Python, HTML, CSS e JavaScript), além de trabalhos freelancer e voluntários.
+
+Aqui você encontra alguns dos meus projetos e códigos que compartilho, frutos da minha jornada acadêmica, freelas e projetos pessoais.
 
 ---
 
 ## ▬ Sobre mim
 
-- 20 anos, desenvolvendo desde 2021  
-- Estagiário de desenvolvimento backend na GestãoTec  
-- Experiência com desenvolvimento de APIs REST usando Java Spring Boot  
-- Entusiasta por soluções web, automações e boas práticas de arquitetura  
-- Vivência prática com banco de dados, modelagem e integrações backend  
+- 21 anos, desenvolvendo desde 2021
+- Em busca de novas oportunidades (CLT, PJ, Freelance)
+- **Conhecimento aprofundado** em desenvolvimento de APIs RESTful usando **Java Spring Boot** e suas principais dependências (como Spring Security, JPA, etc.).
+- Entusiasta por soluções web, automações, boas práticas de arquitetura e um entusiasta de Python.
+- Vivência prática com integrações backend e ferramentas de versionamento.
 
 ---
 
-## ▬ Tecnologias e Skills
+## ▬ Tecnologias e Ferramentas
 
-**Linguagens:** `Java`, `Python`, `JavaScript`, PHP, C  
-**Frameworks & Bibliotecas:** `Spring Boot`, `Flask`, React, React Native, Laravel, Bootstrap  
-**Ferramentas:** `Git`, `Maven`, Firebase  
-**Banco de Dados & Modelagem:** `MySQL`, `PostgreSQL`, brModelo, Astah  
-**Outros:** `API REST`, boas práticas com `Spring Security`, `JPA`, `Lombok`, entre outras dependências comuns do ecossistema Spring
+### Foco Principal (Backend)
+`Java` `Spring Boot` `API REST` `PostgreSQL` `IntelliJ IDEA` `Spring Security` `JPA / Hibernate` `Lombok` `Maven`
+
+### Frontend & Mobile (Conhecimento)
+`HTML5` `CSS3` `JavaScript` `Angular` `React` `React Native` `Flutter` `Bootstrap`
+
+### Banco de Dados & Modelagem
+`PgAdmin4` `Firebase` `brModelo` `Astah`
+
+### Outras Linguagens & Frameworks
+`Python` (Entusiasta) `PHP` `Laravel` `C`
+
+### Ferramentas de DevOps & Colaboração
+`Git` `GitHub` `Bitbucket` `Sourcetree` `Slack`
+
+### Ferramentas de BI & IDEs
+`Jaspersoft` `Visual Studio Code`
 
 ---
 
 ## ▬ Links importantes
 
-- [Meus repositórios no GitHub](https://github.com/Joao-paulo19?tab=repositories)  
-- [Meu portfólio online](https://joao-paulo19.github.io/portfolio/)  
-- [LinkedIn](https://www.linkedin.com/in/joao-paul0/)  
+- [Meus repositórios no GitHub](https://github.com/Joao-paulo19?tab=repositories)
+- [Meu portfólio online](https://joao-paulo19.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/joao-paul0/)
 
 ---
 
