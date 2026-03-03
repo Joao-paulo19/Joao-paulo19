@@ -1,51 +1,64 @@
-# João Paulo Maria de Alvarenga
+### Hi there, I'm João Paulo! 👋
 
-Sou desenvolvedor Backend com foco Java/Spring, e estudante de Tecnologia em Sistemas para Internet pela Fatec Jales.
+[![GitHub followers](https://img.shields.io/github/followers/Joao-paulo19?label=follow&style=social)](https://github.com/Joao-paulo19)
 
-No momento, estou **em busca de novas oportunidades** no mercado e me dedicando a **projetos pessoais** (especialmente com Python, HTML, CSS e JavaScript), além de trabalhos freelancer e voluntários.
-
-Aqui você encontra alguns dos meus projetos e códigos que compartilho, frutos da minha jornada acadêmica, freelas e projetos pessoais.
+> "Desenvolvedor Backend focado em Java/Spring, entusiasta de Python e estudante de Sistemas para Internet."
 
 ---
 
-## ▬ Sobre mim
+### 📊 GitHub Stats
 
-- 21 anos, desenvolvendo desde 2021
-- Em busca de novas oportunidades (CLT, PJ, Freelance)
-- **Conhecimento aprofundado** em desenvolvimento de APIs RESTful usando **Java Spring Boot** e suas principais dependências (como Spring Security, JPA, etc.).
-- Entusiasta por soluções web, automações, boas práticas de arquitetura e um entusiasta de Python.
-- Vivência prática com integrações backend e ferramentas de versionamento.
+![Stats de Atividade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-paulo19&theme=transparent) 
+![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-paulo19&theme=transparent)
 
 ---
 
-## ▬ Tecnologias e Ferramentas
+### 💻 Tech Stack & Interests
 
-### Foco Principal (Backend)
-`Java` `Spring Boot` `API REST` `PostgreSQL` `IntelliJ IDEA` `Spring Security` `JPA / Hibernate` `Lombok` `Maven`
+**Foco Principal (Backend):**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-### Frontend & Mobile (Conhecimento)
-`HTML5` `CSS3` `JavaScript` `Angular` `React` `React Native` `Flutter` `Bootstrap`
-
-### Banco de Dados & Modelagem
-`PgAdmin4` `Firebase` `brModelo` `Astah`
-
-### Outras Linguagens & Frameworks
-`Python` (Entusiasta) `PHP` `Laravel` `C`
-
-### Ferramentas de DevOps & Colaboração
-`Git` `GitHub` `Bitbucket` `Sourcetree` `Slack`
-
-### Ferramentas de BI & IDEs
-`Jaspersoft` `Visual Studio Code`
+**Frontend & Outras Linguagens:**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-## ▬ Links importantes
+### 🌟 Featured Projects (Python Automation)
 
-- [Meus repositórios no GitHub](https://github.com/Joao-paulo19?tab=repositories)
-- [Meu portfólio online](https://joao-paulo19.github.io/portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/joao-paul0/)
+* **[Conversor de Arquivos Multimídia](https://github.com/Joao-paulo19/conversor-multimidia)**: Uma aplicação desktop completa para conversão de áudio, vídeo e imagem. Suporta diversos formatos (MP4, MKV, MP3, GIF, JFIF) e utiliza FFmpeg para processamento de alta performance.
+* **[YouTube Downloader](https://github.com/Joao-paulo19/youtube-downloader)**: Ferramenta desenvolvida em Python com interface Tkinter para download simplificado de vídeos do YouTube.
 
 ---
 
-Obrigado pela visita! Sinta-se à vontade para explorar meus projetos e entrar em contato.
+### 🚀 Sobre Mim
+
+- 🎓 Estudante de Tecnologia em Sistemas para Internet pela Fatec Jales.
+- ☕ Especialista em **Java Spring Boot**, com vivência em Spring Security, JPA/Hibernate e APIs RESTful.
+- 🐍 Desenvolvedor de ferramentas de automação e utilitários multimídia em **Python**.
+- 💻 Experiência com arquitetura de software, modelagem de dados e versionamento de código.
+- 🌍 Residente no interior de São Paulo, desenvolvendo soluções desde 2021.
+
+---
+
+### 🌐 Socials & Contact
+
+<a href="https://www.linkedin.com/in/joao-paul0/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:joaopaulomariaalvarenga@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://joao-paulo19.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=paper&logoColor=white" />
+</a>
+
+---
+
+#### **Profile Views**
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joao-paulo19)
