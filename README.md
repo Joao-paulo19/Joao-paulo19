@@ -25,8 +25,8 @@
 
 ### 🚀 Sobre Mim
 
-- ☕ Especialista em **Java Spring Boot**, com vivência em Spring Security, JPA/Hibernate e APIs RESTful.
-- 🐍 Desenvolvedor de ferramentas de automação e utilitários multimídia em **Python**.
+- ☕ Foco em **Java Spring Boot**, com vivência em Spring Security, JPA/Hibernate e APIs RESTful.
+- 🐍 Desenvolvedor de ferramentas em **Python**.
 - 💻 Experiência com arquitetura de software, modelagem de dados e versionamento de código.
 
 ---
