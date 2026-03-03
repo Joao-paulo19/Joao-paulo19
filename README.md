@@ -8,8 +8,18 @@
 
 ### 📊 GitHub Stats
 
-![Stats de Atividade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-paulo19&theme=transparent) 
-![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-paulo19&theme=transparent)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-paulo19&theme=transparent" alt="Stats de Atividade" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-paulo19&theme=transparent" alt="Detalhes do Perfil" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
