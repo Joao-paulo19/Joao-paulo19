@@ -1,6 +1,6 @@
 ### Hi there, I'm João Paulo! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Joao-paulo19?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Joao-paulo19?label=Follow&style=social)
 
 > "Desenvolvedor Backend focado em Java/Spring, entusiasta de Python."
 
