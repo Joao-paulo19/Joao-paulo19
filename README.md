@@ -23,14 +23,6 @@
 
 ---
 
-### 🚀 Sobre Mim
-
-- ☕ Foco em **Java Spring Boot**, com vivência em Spring Security, JPA/Hibernate e APIs RESTful.
-- 🐍 Entusiasta de ferramentas em **Python**.
-- 💻 Experiência com arquitetura de software, modelagem de dados e versionamento de código.
-
----
-
 ### 🌐 Socials & Contact
 
 <a href="https://www.linkedin.com/in/joao-paul0/" target="_blank">
