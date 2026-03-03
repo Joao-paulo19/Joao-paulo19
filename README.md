@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Joao-paulo19?label=follow&style=social)](https://github.com/Joao-paulo19)
 
-> "Desenvolvedor Backend focado em Java/Spring, entusiasta de Python e estudante de Sistemas para Internet."
+> "Desenvolvedor Backend focado em Java/Spring, entusiasta de Python."
 
 ---
 
@@ -18,14 +18,10 @@
 **Foco Principal (Backend):**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 **Frontend & Outras Linguagens:**
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -38,11 +34,9 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Estudante de Tecnologia em Sistemas para Internet pela Fatec Jales.
 - ☕ Especialista em **Java Spring Boot**, com vivência em Spring Security, JPA/Hibernate e APIs RESTful.
 - 🐍 Desenvolvedor de ferramentas de automação e utilitários multimídia em **Python**.
 - 💻 Experiência com arquitetura de software, modelagem de dados e versionamento de código.
-- 🌍 Residente no interior de São Paulo, desenvolvendo soluções desde 2021.
 
 ---
 
