@@ -13,25 +13,6 @@
 
 ---
 
-### 💻 Tech Stack & Interests
-
-**Foco Principal (Backend):**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-**Frontend & Outras Linguagens:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🌟 Featured Projects (Python Automation)
-
-* **[Conversor de Arquivos Multimídia](https://github.com/Joao-paulo19/conversor-multimidia)**: Uma aplicação desktop completa para conversão de áudio, vídeo e imagem. Suporta diversos formatos (MP4, MKV, MP3, GIF, JFIF) e utiliza FFmpeg para processamento de alta performance.
-* **[YouTube Downloader](https://github.com/Joao-paulo19/youtube-downloader)**: Ferramenta desenvolvida em Python com interface Tkinter para download simplificado de vídeos do YouTube.
-
----
-
 ### 🚀 Sobre Mim
 
 - ☕ Especialista em **Java Spring Boot**, com vivência em Spring Security, JPA/Hibernate e APIs RESTful.
